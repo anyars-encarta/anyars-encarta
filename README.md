@@ -1,5 +1,7 @@
 ![Anyars Yussif](https://github.com/anyars-encarta/anyars-encarta/assets/29536724/06e0d5b2-3556-4bb5-916b-d8686b86e0b0)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mona+Sans&weight=600&size=35&pause=1000&color=000000&width=1200&height=150&lines=Hello%2C+I+am+Anyars+Yussif;I+am+a+full-Stack+Web%2FSoftware+Developer;My+stacks+include+HTML%2C+CSS%2C+JavaScript%2C+React%2C+and+Ruby;I+am+open+to+new+opportunities)](https://git.io/typing-svg)
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anyars Yussif
 =====================================================================================================================================
 
