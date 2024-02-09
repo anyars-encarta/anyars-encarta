@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-My name is Anyars Yussif from Ghana, West Africa. I am a very dedicated I. T. enthusiast, very passionate about coding and software development. I started coding in Visual Basic before delving into HTML, CSS and JavaScript, React, Redux, Ruby, Rails. I am currently a Full-stack Software Development at Microverse.
+My name is Anyars Yussif from Ghana, West Africa. I am a very dedicated I. T. enthusiast, very passionate about coding and software development. I started coding in Visual Basic before delving into HTML, CSS and JavaScript, React, Redux, Ruby, Rails. I am currently a Full-stack Software Development at.
 
 * 🌍  I'm based in Nalerigu, Ghana, West Africa
 * 🖥️  See my portfolio at [https://anyars-encarta.github.io](http://https://anyars-encarta.github.io/First-Capstone/)
