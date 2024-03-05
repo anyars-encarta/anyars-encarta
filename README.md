@@ -13,7 +13,7 @@ My name is Anyars Yussif from Ghana, West Africa. I am a very dedicated I. T. en
 * 🌍  I'm based in Nalerigu, Ghana, West Africa
 * 🖥️  See my portfolio at [https://anyars-encarta.github.io](http://https://anyars-encarta.github.io/First-Capstone/)
 * ✉️  You can contact me at [anyarsencarta@gmail.com](mailto:anyarsencarta@gmail.com)
-* 🧠  I'm a Full Stack Development at Microverse
+* 🧠  I'm a Full Stack Software Developer
 * 🤝  I'm open to collaborating on Projects and open to new opportunities
 * ⚡  I love riding and driving
 
