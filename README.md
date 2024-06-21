@@ -11,7 +11,7 @@ Full Stack Developer
 My name is Anyars Yussif from Ghana, West Africa. I am a very dedicated I. T. enthusiast, very passionate about coding and software development. I started coding in Visual Basic before delving into HTML, CSS and JavaScript, React, Redux, Ruby, Rails. I am currently a Full-stack Software Development.
 
 * 🌍  I'm based in Nalerigu, Ghana, West Africa
-* 🖥️  See my [portfolio](https://anyars-portfolio.vercel.app/)
+* 🖥️  See my [portfolio](anyars-yussif-nextjs-portfolio.vercel.app)
 * ✉️  You can contact me at [anyarsencarta@gmail.com](mailto:anyarsencarta@gmail.com)
 * 🧠  I'm a Full Stack Software Developer
 * 🤝  I'm open to collaborating on Projects and open to new opportunities
