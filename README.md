@@ -44,6 +44,9 @@ src="https://img.shields.io/twitter/follow/anyarsencarta?logo=twitter&style=for-
 <a href="https://clerk.com/" target="_blank" rel="noreferrer"><img src="https://cdn.sanity.io/images/o0o2tn5x/production/2399b991025c365aafaa6fca85d91deac801e654-1046x1046.png" width="36" height="36" alt="Clerk" /></a>
 <a href="https://sentry.io/" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/282/295/png-transparent-logo-sentry-group-cdr-text-trademark.png" width="36" height="36" alt="Sentry" /></a>
 <a href="https://liveblocks.io/" target="_blank" rel="noreferrer"><img src="https://pbs.twimg.com/profile_images/1623982338630733826/_dFRCa3T_400x400.png" width="36" height="36" alt="Liveblocks" /></a>
+<a href="https://appwrite.io/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx9Oe06SIl1admJwmJAVyLtoKC-6YmTWZwgg&s" width="36" height="36" alt="Appwrite" /></a>
+<a href="https://www.twilio.com/en-us" target="_blank" rel="noreferrer"><img src="https://companieslogo.com/img/orig/TWLO-f7d1b0a6.png?t=1720244494" width="36" height="36" alt="Twilio" /></a>
+<a href="https://expo.dev/" target="_blank" rel="noreferrer"><img src="https://logowik.com/content/uploads/images/expo4769.logowik.com.webp" width="36" height="36" alt="Expo" /></a>
 </p>
 
 ### Socials
