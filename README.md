@@ -40,7 +40,7 @@ src="https://img.shields.io/twitter/follow/anyarsencarta?logo=twitter&style=for-
 <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads/" target="_blank" rel="noreferrer"><img src="https://e7.pngegg.com/pngimages/515/909/png-clipart-microsoft-sql-server-computer-servers-database-microsoft-microsoft-sql-server-server-computer.png" width="36" height="36" alt="MSSQL" /></a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png" width="36" height="36" alt="NextJS" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png" width="36" height="36" alt="Tailwind" /></a>
-<a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="36" height="36" alt="Shadcn" style={{ borderRadius: '50%' }} /></a>
+<a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="36" height="36" alt="Shadcn" /></a>
 </p>
 
 ### Socials
