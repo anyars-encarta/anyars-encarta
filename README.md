@@ -42,6 +42,7 @@ src="https://img.shields.io/twitter/follow/anyarsencarta?logo=twitter&style=for-
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png" width="36" height="36" alt="Tailwind" /></a>
 <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="36" height="36" alt="Shadcn" /></a>
 <a href="https://clerk.com/" target="_blank" rel="noreferrer"><img src="https://cdn.sanity.io/images/o0o2tn5x/production/2399b991025c365aafaa6fca85d91deac801e654-1046x1046.png" width="36" height="36" alt="Clerk" /></a>
+<a href="https://sentry.io/" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/282/295/png-transparent-logo-sentry-group-cdr-text-trademark.png" width="36" height="36" alt="Sentry" /></a>
 </p>
 
 ### Socials
