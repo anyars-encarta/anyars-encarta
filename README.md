@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-My name is Anyars Yussif from Ghana, West Africa. I am a very dedicated I. T. enthusiast, very passionate about coding and software development. I started coding in Visual Basic before delving into HTML5, CSS3, Tailwind CSS, JavaScript, TypeScript, React, Redux, Next.js, Shadcn, Ruby, and Ruby on Rails. I am currently a Full-stack Software Developer.
+My name is Anyars Yussif from Ghana, West Africa. I am a very dedicated I. T. enthusiast, very passionate about coding and software development. I started coding in Visual Basic before delving into HTML5, CSS3, Tailwind CSS, JavaScript, TypeScript, React, Next.js, Ruby, and Ruby on Rails. I am currently a Full-stack Software Developer.
 
 * 🌍  I'm based in Nalerigu, Ghana, West Africa
 * 🖥️  See my [portfolio](https://anyars-yussif.vercel.app/)
